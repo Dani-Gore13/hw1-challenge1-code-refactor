@@ -4,7 +4,7 @@
 
 ## Description:
 
-- I have gone in an refactored the HTML code to follow accesibilty standards so that the website is optimized for for search engines. I have edited the code without changing the websites original looks and functions.
+- I have gone in and refactored the HTML code to follow accesibilty standards so that the website is optimized for for search engines. I have edited the code without changing the websites original looks and functions.
 
 ## What has been changed:
 
